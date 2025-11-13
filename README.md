@@ -15,4 +15,3 @@ I'm a passionate computer science student who loves <br>exploting new technology
 ---
 [![](https://visitcount.itsvg.in/api?id=shrunga shekar&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
